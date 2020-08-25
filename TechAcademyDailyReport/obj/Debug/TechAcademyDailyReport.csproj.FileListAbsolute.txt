@@ -1,0 +1,6 @@
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\TechAcademyDailyReport\bin\Debug\TechAcademyDailyReport.exe.config
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\TechAcademyDailyReport\bin\Debug\TechAcademyDailyReport.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\TechAcademyDailyReport\bin\Debug\TechAcademyDailyReport.pdb
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\TechAcademyDailyReport\obj\Debug\TechAcademyDailyReport.csproj.CoreCompileInputs.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\TechAcademyDailyReport\obj\Debug\TechAcademyDailyReport.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\TechAcademyDailyReport\obj\Debug\TechAcademyDailyReport.pdb

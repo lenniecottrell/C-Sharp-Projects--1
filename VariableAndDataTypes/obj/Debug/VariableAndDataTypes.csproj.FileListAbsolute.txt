@@ -1,0 +1,7 @@
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\VariableAndDataTypes\bin\Debug\VariableAndDataTypes.exe.config
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\VariableAndDataTypes\bin\Debug\VariableAndDataTypes.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\VariableAndDataTypes\bin\Debug\VariableAndDataTypes.pdb
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\VariableAndDataTypes\obj\Debug\VariableAndDataTypes.csprojAssemblyReference.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\VariableAndDataTypes\obj\Debug\VariableAndDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\VariableAndDataTypes\obj\Debug\VariableAndDataTypes.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\VariableAndDataTypes\obj\Debug\VariableAndDataTypes.pdb
