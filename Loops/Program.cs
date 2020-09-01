@@ -15,7 +15,7 @@ namespace Loops
             do
             {
                 Console.WriteLine("You picked " + homophone + ", now...");
-                Console.WriteLine("Pick the most flavorblasted one!");
+                Console.WriteLine("Pick the most flavorblasted one from the first four options!");
                 homophone = Console.ReadLine();
                 lc = homophone.ToLower();
             }
