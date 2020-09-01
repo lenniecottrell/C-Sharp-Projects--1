@@ -1,0 +1,7 @@
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\SwitchStatement\bin\Debug\SwitchStatement.exe.config
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\SwitchStatement\bin\Debug\SwitchStatement.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\SwitchStatement\bin\Debug\SwitchStatement.pdb
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\SwitchStatement\obj\Debug\SwitchStatement.csprojAssemblyReference.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\SwitchStatement\obj\Debug\SwitchStatement.csproj.CoreCompileInputs.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\SwitchStatement\obj\Debug\SwitchStatement.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\SwitchStatement\obj\Debug\SwitchStatement.pdb
