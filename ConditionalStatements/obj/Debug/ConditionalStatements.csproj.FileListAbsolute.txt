@@ -1,0 +1,7 @@
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\ConditionalStatements\bin\Debug\ConditionalStatements.exe.config
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\ConditionalStatements\bin\Debug\ConditionalStatements.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\ConditionalStatements\bin\Debug\ConditionalStatements.pdb
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\ConditionalStatements\obj\Debug\ConditionalStatements.csprojAssemblyReference.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\ConditionalStatements\obj\Debug\ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\ConditionalStatements\obj\Debug\ConditionalStatements.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\ConditionalStatements\obj\Debug\ConditionalStatements.pdb
