@@ -1,0 +1,7 @@
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\ArraysAndLists2\bin\Debug\ArraysAndLists2.exe.config
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\ArraysAndLists2\bin\Debug\ArraysAndLists2.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\ArraysAndLists2\bin\Debug\ArraysAndLists2.pdb
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\ArraysAndLists2\obj\Debug\ArraysAndLists2.csprojAssemblyReference.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\ArraysAndLists2\obj\Debug\ArraysAndLists2.csproj.CoreCompileInputs.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\ArraysAndLists2\obj\Debug\ArraysAndLists2.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\ArraysAndLists2\obj\Debug\ArraysAndLists2.pdb
