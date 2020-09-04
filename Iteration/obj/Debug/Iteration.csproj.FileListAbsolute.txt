@@ -1,0 +1,7 @@
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Iteration\bin\Debug\Iteration.exe.config
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Iteration\bin\Debug\Iteration.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Iteration\bin\Debug\Iteration.pdb
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Iteration\obj\Debug\Iteration.csprojAssemblyReference.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Iteration\obj\Debug\Iteration.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Iteration\obj\Debug\Iteration.pdb
