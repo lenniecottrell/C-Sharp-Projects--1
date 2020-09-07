@@ -20,7 +20,7 @@ namespace CarInsuranceApproval
             int ticketsInt = Convert.ToInt32(ticketsStr);
 
             Console.WriteLine("Qualified?");
-            Console.WriteLine(ageInt > 15 && DUIbool == false && ticketsInt < 3);
+            Console.WriteLine(ageInt > 15 && DUIbool == false && ticketsInt <= 3);
             Console.Read();
 
 
