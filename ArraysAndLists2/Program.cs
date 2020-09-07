@@ -22,6 +22,7 @@ namespace ArraysAndLists2
             catch(IndexOutOfRangeException)
             {
                 Console.WriteLine("Invalid Selection");
+                Console.ReadLine();
             }
 
             int[] nums = { 3, 7, 10, 54, 4997, 20, 4, 1 };
