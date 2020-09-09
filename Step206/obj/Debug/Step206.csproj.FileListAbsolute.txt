@@ -1,0 +1,7 @@
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step206\bin\Debug\Step206.exe.config
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step206\bin\Debug\Step206.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step206\bin\Debug\Step206.pdb
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step206\obj\Debug\Step206.csprojAssemblyReference.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step206\obj\Debug\Step206.csproj.CoreCompileInputs.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step206\obj\Debug\Step206.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step206\obj\Debug\Step206.pdb
