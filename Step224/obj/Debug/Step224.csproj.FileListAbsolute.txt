@@ -1,0 +1,7 @@
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step224\bin\Debug\Step224.exe.config
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step224\bin\Debug\Step224.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step224\bin\Debug\Step224.pdb
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step224\obj\Debug\Step224.csprojAssemblyReference.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step224\obj\Debug\Step224.csproj.CoreCompileInputs.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step224\obj\Debug\Step224.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step224\obj\Debug\Step224.pdb
