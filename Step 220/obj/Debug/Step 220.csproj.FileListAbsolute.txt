@@ -1,0 +1,7 @@
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step 220\obj\Debug\Step 220.csprojAssemblyReference.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step 220\obj\Debug\Step 220.csproj.CoreCompileInputs.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step 220\bin\Debug\Step 220.exe.config
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step 220\bin\Debug\Step 220.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step 220\bin\Debug\Step 220.pdb
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step 220\obj\Debug\Step 220.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step 220\obj\Debug\Step 220.pdb
