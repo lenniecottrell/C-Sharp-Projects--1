@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D759ECA2-8B95-44D2-A3E9-C7B8B01B07BA}</ProjectGuid>
+    <ProjectGuid>{6152BD6F-B0AC-4E65-A6FB-59AEAF694B41}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Step237</RootNamespace>
-    <AssemblyName>Step237</AssemblyName>
+    <RootNamespace>Step240</RootNamespace>
+    <AssemblyName>Step240</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Employee.cs" />
-    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
