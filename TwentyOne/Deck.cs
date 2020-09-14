@@ -26,7 +26,6 @@ namespace TwentyOne
                     card.Suit = suit; // assign suit to the one we're currently looping on
                     card.Face = face; // assign face to the one we're currently looping on
                     Cards.Add(card); // add the new card to the list of cards
-
                 }
             }
 

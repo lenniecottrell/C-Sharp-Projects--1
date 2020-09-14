@@ -1,0 +1,7 @@
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step229\bin\Debug\Step229.exe.config
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step229\bin\Debug\Step229.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step229\bin\Debug\Step229.pdb
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step229\obj\Debug\Step229.csprojAssemblyReference.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step229\obj\Debug\Step229.csproj.CoreCompileInputs.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step229\obj\Debug\Step229.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step229\obj\Debug\Step229.pdb

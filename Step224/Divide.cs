@@ -14,7 +14,7 @@ namespace Step224
             Console.WriteLine(output);
         }
 
-        public static void By2(int input, int input2)
+        public static void By2(int input, int input2) //overloaded method
         {
             int output = input / input2;
             Console.WriteLine(output);
