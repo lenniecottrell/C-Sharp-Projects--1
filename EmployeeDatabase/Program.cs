@@ -9,13 +9,17 @@ namespace EmployeeDatabase
     class Program
     {
         static void Main(string[] args)
-        //{
-        //    Employee employee = new Employee() { FirstName = "Sample", LastName = "Student" }; //new employee object
-        //    employee.SayName(); //calling the method on the new object
-        //}
         {
-            IQuittable employee = new Employee(); //creating a new object of type IQuittable
-            employee.Quit(); //calling the Quit() method on the new object
+            Employee employee1 = new Employee() { FirstName = "sample", LastName = "student", EmpId = 101 }; //new employee object
+            Employee employee2 = new Employee() { FirstName = "Bob", LastName = "Bobbington", EmpId = 102 };
+            Employee employee3 = new Employee() { FirstName = "Todd", LastName = "Toddington", EmpId = 101 }; //same ID as employee1 to test the overloaded == operator
+
+            IQuittable employee4 = employee2; //creating a new object of type IQuittable
+            employee4.Quit(); //calling the Quit() method on the new object
+            Console.ReadLine();
+
+
+            Console.WriteLine(employee1 == employee3); //this is the desired outcome of overloading the operator
             Console.ReadLine();
         }
     }
