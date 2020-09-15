@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D759ECA2-8B95-44D2-A3E9-C7B8B01B07BA}</ProjectGuid>
+    <ProjectGuid>{3066C789-112B-444D-BABC-81938732C369}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Step237</RootNamespace>
-    <AssemblyName>Step237</AssemblyName>
+    <RootNamespace>EmployeeDatabase</RootNamespace>
+    <AssemblyName>EmployeeDatabase</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,9 +46,7 @@
     <Compile Include="Employee.cs" />
     <Compile Include="IQuittable.cs" />
     <Compile Include="Person.cs" />
-    <Compile Include="..\Step240\Program.cs">
-      <Link>Program.cs</Link>
-    </Compile>
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

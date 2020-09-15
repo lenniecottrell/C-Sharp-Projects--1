@@ -1,0 +1,2 @@
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step237\obj\Debug\Step237.csprojAssemblyReference.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step237\obj\Debug\Step237.csproj.CoreCompileInputs.cache

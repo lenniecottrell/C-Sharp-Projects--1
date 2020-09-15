@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    class TwentyOneGame : Game, IWalkAway //inherits from the superclass "Game"
+    class TwentyOneGame : Game, IWalkAway //inherits from the superclass "Game" and the interface IWalkAway
     {
         public override void Play()
         {

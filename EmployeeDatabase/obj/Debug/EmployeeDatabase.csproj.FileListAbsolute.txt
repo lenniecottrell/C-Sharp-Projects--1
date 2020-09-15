@@ -1,0 +1,7 @@
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\EmployeeDatabase\obj\Debug\EmployeeDatabase.csprojAssemblyReference.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\EmployeeDatabase\obj\Debug\EmployeeDatabase.csproj.CoreCompileInputs.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe.config
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\EmployeeDatabase\bin\Debug\EmployeeDatabase.pdb
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\EmployeeDatabase\obj\Debug\EmployeeDatabase.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\EmployeeDatabase\obj\Debug\EmployeeDatabase.pdb
