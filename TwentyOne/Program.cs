@@ -10,12 +10,12 @@ namespace TwentyOne
     {
         static void Main(string[] args) //this is the "main" method
         {
-            Game game = new TwentyOneGame(); //polymorphism 
-            game.Players = new List<Player>(); //instantiate a list so that we can add players to it
-            Player player = new Player();
-            player.Name = "Jesse";
-            game += player;
-            game -= player;
+            //Game game = new TwentyOneGame(); //polymorphism 
+            //game.Players = new List<Player>(); //instantiate a list so that we can add players to it
+            //Player player = new Player();
+            //player.Name = "Jesse";
+            //game += player;
+            //game -= player;
 
 
             Deck deck = new Deck(); //instantiate a new deck object
