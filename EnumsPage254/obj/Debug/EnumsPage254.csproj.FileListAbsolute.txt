@@ -1,0 +1,7 @@
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\EnumsPage254\bin\Debug\EnumsPage254.exe.config
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\EnumsPage254\bin\Debug\EnumsPage254.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\EnumsPage254\bin\Debug\EnumsPage254.pdb
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\EnumsPage254\obj\Debug\EnumsPage254.csprojAssemblyReference.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\EnumsPage254\obj\Debug\EnumsPage254.csproj.CoreCompileInputs.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\EnumsPage254\obj\Debug\EnumsPage254.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\EnumsPage254\obj\Debug\EnumsPage254.pdb
