@@ -10,9 +10,9 @@ namespace EmployeeDatabase
     {
         static void Main(string[] args)
         {
-            //Employee<Person> employee1 = new Employee<Person>() { FirstName = "sample", LastName = "student", EmpId = 101 }; //new employee object
-            //Employee<Person> employee2 = new Employee<Person>() { FirstName = "Bob", LastName = "Bobbington", EmpId = 102 };
-            //Employee<Person> employee3 = new Employee<Person>() { FirstName = "Todd", LastName = "Toddington", EmpId = 101 }; //same ID as employee1 to test the overloaded == operator
+            Employee employee1 = new Employee() { FirstName = "sample", LastName = "student", EmpId = 101 }; //new employee object
+            Employee employee2 = new Employee() { FirstName = "Bob", LastName = "Bobbington", EmpId = 102 };
+            Employee employee3 = new Employee() { FirstName = "Todd", LastName = "Toddington", EmpId = 103 };
 
             //IQuittable employee4 = employee2; //creating a new object of type IQuittable
             //employee4.Quit(); //calling the Quit() method on the new object
@@ -42,10 +42,39 @@ namespace EmployeeDatabase
             //Console.ReadLine();
 
             //For p. 260
-            Number num = new Number();
-            num.Amount = 29.99M;
-            Console.WriteLine(num.Amount);
+            //Number num = new Number();
+            //num.Amount = 29.99M;
+            //Console.WriteLine(num.Amount);
+            //Console.ReadLine();
+
+            //For P. 265
+
+            Employee employee4 = new Employee() { FirstName = "Sam", LastName = "Samington", EmpId = 104 }; //same ID as employee1 to test the overloaded == operator
+            Employee employee5 = new Employee() { FirstName = "Barb", LastName = "Barbington", EmpId = 105 }; //same ID as employee1 to test the overloaded == operator
+            Employee employee6 = new Employee() { FirstName = "Joe", LastName = "Joeington", EmpId = 106 }; //same ID as employee1 to test the overloaded == operator
+            Employee employee7 = new Employee() { FirstName = "Tina", LastName = "Tinaington", EmpId = 107 }; //same ID as employee1 to test the overloaded == operator
+            Employee employee8 = new Employee() { FirstName = "Sally", LastName = "Sallyington", EmpId = 108 }; //same ID as employee1 to test the overloaded == operator
+            Employee employee9 = new Employee() { FirstName = "Joe", LastName = "OtherJoe", EmpId = 109 }; //same ID as employee1 to test the overloaded == operator
+            Employee employee10 = new Employee() { FirstName = "Steven", LastName = "Stevenington", EmpId = 110 }; //same ID as employee1 to test the overloaded == operator
+            List<Employee> employees = new List<Employee>()
+            {
+                employee1, employee2, employee3, employee4, employee5, employee6, employee7, employee8, employee9, employee10
+            };
+
+            List<Employee> joes = employees.Where(x => x.FirstName == "Joe").ToList(); //lambda function that adds the joes to a new list
+            List<Employee> greaterThan5 = employees.Where(x => x.EmpId > 105).ToList();
+            ////foreach to add the joes to the new list
+            //foreach (Employee worker in employees)
+            //{
+            //    if (worker.FirstName == "Joe")
+            //    {
+            //        joes.Add(worker);
+            //    }
+            //}
+            Console.WriteLine(joes.Count());
+            Console.WriteLine(greaterThan5.Count());
             Console.ReadLine();
+
 
         }
     }
