@@ -1,0 +1,6 @@
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Page 290\obj\Debug\Page 290.csproj.CoreCompileInputs.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Page 290\bin\Debug\Page 290.exe.config
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Page 290\bin\Debug\Page 290.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Page 290\bin\Debug\Page 290.pdb
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Page 290\obj\Debug\Page 290.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Page 290\obj\Debug\Page 290.pdb
