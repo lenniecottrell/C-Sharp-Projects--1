@@ -1,0 +1,7 @@
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step 303\bin\Debug\Step 303.exe.config
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step 303\bin\Debug\Step 303.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step 303\bin\Debug\Step 303.pdb
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step 303\obj\Debug\Step 303.csprojAssemblyReference.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step 303\obj\Debug\Step 303.csproj.CoreCompileInputs.cache
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step 303\obj\Debug\Step 303.exe
+C:\Users\lenni\Documents\GitHub\C-Sharp-Projects--1\Step 303\obj\Debug\Step 303.pdb

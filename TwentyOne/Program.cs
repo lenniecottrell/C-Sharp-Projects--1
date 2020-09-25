@@ -1,16 +1,18 @@
 ﻿using System;
 using Casino;
 using Casino.TwentyOne;
+using System.IO;
 
 namespace TwentyOne
 {
     class Program
     {
-        static void Main(string[] args) //this is the "main" method
+        static void Main(string[] args)
         {
+            const string casinoName = "Grand Hotel and Casino";
 
 
-            Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
+            Console.WriteLine("Welcome to the {0}. Let's start by telling me your name.", casinoName);
             string playerName = Console.ReadLine();
 
             Console.WriteLine("And how much money did you bring today?");
@@ -21,6 +23,12 @@ namespace TwentyOne
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank); //passing the two parameters we have already into the constructor
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\Users\lenni\Desktop\logs\log.txt", true))
+                {
+                    file.WriteLine(player.Id);
+
+                }
                 Game game = new TwentyOneGame(); //polymorphism!
                 game += player; //add the new player to the game
                 player.IsActivelyPlaying = true; //we'll use this for a while loop to make sure the game is still being played
