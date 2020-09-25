@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "s1lzWdrHogr3rmg6zfB8HHjhUhdjyaFkQ1y1WgVGKBSVuVKfXNyy7td0Owanz5kzI4GPav8G3KLLFOVb+DbgUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenni\\Documents\\GitHub\\C-Sharp-Projects--1\\Casino\\Casino.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenni\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lenni\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
