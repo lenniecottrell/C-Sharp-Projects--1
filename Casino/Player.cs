@@ -13,7 +13,7 @@ namespace Casino
         }
         public Player(string name, int beginningBalance) //constructor. Goes at the top of the class, this one takes two parameters
         {
-            Hand = new List<Card>(); //
+            Hand = new List<Card>();
             Balance = beginningBalance;
             Name = name;
         }
