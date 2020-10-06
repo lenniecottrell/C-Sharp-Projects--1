@@ -49,13 +49,13 @@ namespace EmployeeDatabase
 
             //For P. 265
 
-            Employee employee4 = new Employee() { FirstName = "Sam", LastName = "Samington", EmpId = 104 }; //same ID as employee1 to test the overloaded == operator
-            Employee employee5 = new Employee() { FirstName = "Barb", LastName = "Barbington", EmpId = 105 }; //same ID as employee1 to test the overloaded == operator
-            Employee employee6 = new Employee() { FirstName = "Joe", LastName = "Joeington", EmpId = 106 }; //same ID as employee1 to test the overloaded == operator
-            Employee employee7 = new Employee() { FirstName = "Tina", LastName = "Tinaington", EmpId = 107 }; //same ID as employee1 to test the overloaded == operator
-            Employee employee8 = new Employee() { FirstName = "Sally", LastName = "Sallyington", EmpId = 108 }; //same ID as employee1 to test the overloaded == operator
-            Employee employee9 = new Employee() { FirstName = "Joe", LastName = "OtherJoe", EmpId = 109 }; //same ID as employee1 to test the overloaded == operator
-            Employee employee10 = new Employee() { FirstName = "Steven", LastName = "Stevenington", EmpId = 110 }; //same ID as employee1 to test the overloaded == operator
+            Employee employee4 = new Employee() { FirstName = "Sam", LastName = "Samington", EmpId = 104 }; 
+            Employee employee5 = new Employee() { FirstName = "Barb", LastName = "Barbington", EmpId = 105 }; 
+            Employee employee6 = new Employee() { FirstName = "Joe", LastName = "Joeington", EmpId = 106 }; 
+            Employee employee7 = new Employee() { FirstName = "Tina", LastName = "Tinaington", EmpId = 107 };
+            Employee employee8 = new Employee() { FirstName = "Sally", LastName = "Sallyington", EmpId = 108 }; 
+            Employee employee9 = new Employee() { FirstName = "Joe", LastName = "OtherJoe", EmpId = 109 }; 
+            Employee employee10 = new Employee() { FirstName = "Steven", LastName = "Stevenington", EmpId = 110 }; 
             List<Employee> employees = new List<Employee>()
             {
                 employee1, employee2, employee3, employee4, employee5, employee6, employee7, employee8, employee9, employee10
@@ -63,15 +63,17 @@ namespace EmployeeDatabase
 
             List<Employee> joes = employees.Where(x => x.FirstName == "Joe").ToList(); //lambda function that adds the joes to a new list
             List<Employee> greaterThan5 = employees.Where(x => x.EmpId > 105).ToList();
-            ////foreach to add the joes to the new list
-            //foreach (Employee worker in employees)
-            //{
-            //    if (worker.FirstName == "Joe")
-            //    {
-            //        joes.Add(worker);
-            //    }
-            //}
-            Console.WriteLine(joes.Count());
+
+            List<Employee> joes2 = new List<Employee>(); //new list
+            //foreach to add the joes to the new list
+            foreach (Employee worker in employees)
+            {
+                if (worker.FirstName == "Joe")
+                {
+                    joes2.Add(worker);
+                }
+            }
+            Console.WriteLine(joes2.Count());
             Console.WriteLine(greaterThan5.Count());
             Console.ReadLine();
 
