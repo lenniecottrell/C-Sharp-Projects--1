@@ -20,20 +20,23 @@ namespace ConsoleApp1
                     int result = num / devisor;
                     Console.WriteLine(result);
                 }
+                    Console.WriteLine("Math was successful!");
             }
             catch (DivideByZeroException ex)
             {
                 Console.WriteLine(ex.Message);
                 Console.ReadLine();
-                return;
             }
             catch (Exception ex)
             {
-                Console.WriteLine("You were unable to follow directions, and an error has occurred. Goodbye!");
+                Console.WriteLine("You were unable to follow directions, and an error has occurred.");
                 Console.ReadLine();
-                return;
             }
-            Console.WriteLine("Math was successful. Program executed");
+            finally
+            {
+                Console.WriteLine("Something weird happened! Who knows what with these dang computers, you know?");
+                Console.WriteLine("Continuing program...");
+            }
             Console.ReadLine();
         }
     }
